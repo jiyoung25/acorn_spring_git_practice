@@ -16,6 +16,7 @@
 				<li>${tmp }</li>
 			</c:forEach>
 		</ul>
+		<h3> 진현승입니다 </h3>
 	</div>
 </body>
 </html>
