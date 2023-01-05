@@ -11,6 +11,9 @@
 		color:blue;
 		background-color: yellow;
 	}
+	#branch3{
+		color:red;
+	}
 </style>
 </head>
 <body>
@@ -30,7 +33,7 @@
 		<ul>
 			<li>브랜치1</li>
 			<li>브랜치2</li>
-			<li>브랜치3</li>
+			<li id="branch3">브랜치3</li>
 		</ul>
 	</div>
 </body>
