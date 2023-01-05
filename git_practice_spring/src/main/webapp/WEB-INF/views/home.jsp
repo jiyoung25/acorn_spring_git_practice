@@ -11,6 +11,9 @@
 		color:blue;
 		background-color: yellow;
 	}
+	#branch3{
+		color:blue;
+	}
 </style>
 </head>
 <body>
@@ -27,6 +30,11 @@
 		<h3> 신우철 입니다.</h3>
 		<h3 id="jiyoung"> 이지영입니다.</h3>
 		<p>브랜치 여러개 만들어보기</p>
+		<ul>
+			<li>브랜치1 브랜치1 브랜치1</li>
+			<li>브랜치2</li>
+			<li id="branch3">브랜치3</li>
+		</ul>
 	</div>
 </body>
 </html>
