@@ -6,6 +6,11 @@
 <head>
 <meta charset="UTF-8">
 <title>/views/webapp/WEB-INF/home.jsp</title>
+<style>
+	#jiyoung{
+		color:red;
+	}
+</style>
 </head>
 <body>
 	<div class="container">
@@ -19,7 +24,7 @@
 		<h3> 진현승입니다 </h3>
 		<h3> 권도희 입니다</h3>
 		<h3> 신우철 입니다.</h3>
-		<h3> 이지영입니다.</h3>
+		<h3 id="jiyoung"> 이지영입니다. conflict 시켜보기</h3>
 	</div>
 </body>
 </html>
