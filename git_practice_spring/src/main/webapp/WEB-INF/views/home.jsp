@@ -8,7 +8,8 @@
 <title>/views/webapp/WEB-INF/home.jsp</title>
 <style>
 	#jiyoung{
-		color:red;
+		color:blue;
+		background-color: yellow;
 	}
 </style>
 </head>
